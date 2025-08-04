@@ -1,6 +1,11 @@
+<center>
 ## Hello! I'm Farhan 👋
 
-I'm great at software engineering. Although I can do a lot of things. From Networking, IoT, Software Development, Server Configuration, even outside of IT like Illustration. I love IT, Design, Illusration, Photography, and studying various new things. It feeds my interest and give me growth that keeps me living and becoming a better person. I want to understand people further and help them to grow together. I love to analyze, empathize, and seeing things from different perspective in order to understand people better and create a better life.
+I'm great at software engineering. 
+Although I can do a lot of things. From Networking, IoT, Software Development, Server Configuration, even outside of IT like Illustration. 
+
+I love IT, Design, Illusration, Photography, and studying various new things. It feeds my interest and give me growth that keeps me living and becoming a better person. I want to understand people further and help them to grow together. I love to analyze, empathize, and seeing things from different perspective in order to understand people better and create a better life.
+</center>
 
 <!--
 **far14c/far14c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
